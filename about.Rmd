@@ -1,0 +1,9 @@
+---
+title: "About Aidan's blog"
+description: |
+  Here are some examples of projects I've completed this year.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

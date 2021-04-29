@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Aidan's blog",
+      "description": "Here are some examples of projects I've completed this year.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-29T16:14:04-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Aidan's Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-29T16:14:06-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
